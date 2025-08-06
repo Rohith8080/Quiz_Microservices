@@ -1,4 +1,4 @@
-A microservice which handles login, authentication, questions, quiz, etc each as a separate service.
+ A microservice which handles login, authentication, questions, quiz, etc each as a separate service.
 
 1.each service has it's own database. 
 2.one service communicates with other using feign client to fetch data from other service 
